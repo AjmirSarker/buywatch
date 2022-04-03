@@ -17,8 +17,8 @@ const Home = () => {
           <div className="col-12 col-md-6 d-flex flex-column my-auto ">
             <h1 className='text-warning  my-3 fw-bolder'> Your smart watch</h1>
             <h1 className='text-success my-3 fw-bolder'>Let's buy it</h1>
-            <p className='my-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit.{<br></br>} Numquam atque ipsa aperiam eos ducimus nisi qui expedita neque dicta? Quis!</p>
-            <button className='w-25 fw-bolder fs-5 my-3 btn btn-outline-dark'> Live demo</button>
+            <p className='my-3'>The Apple Watch Series 7 45mm Sports Band features the largest, most advanced display yet. It comes with an always-On Retina LTPO OLED display, 1,000 nits brightness.</p>
+            <button onClick={()=> navigate(`/about`)} className='w-25 fw-bolder fs-5 my-3 btn btn-outline-dark'> Learn more</button>
             
           </div>
           <div className="col-12 col-md-6 text-heigh">
@@ -37,7 +37,7 @@ const Home = () => {
                   
                 }
             </div>
-            <button onClick={()=>navigate(`/reviews`)} className='btn btn-secondary fw-bold '>See all reviews</button>
+            <button onClick={()=>navigate(`/reviews`)} className='btn border-warning btn-secondary fw-bold '>See all reviews</button>
 
         </div>
       
