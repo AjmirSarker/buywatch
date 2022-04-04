@@ -45,7 +45,7 @@ const DashBoard = () => {
             <div>
              <AreaChart
               className='my-5'
-          width={500}
+          width={600}
           height={400}
           data={data}
           margin={{
@@ -63,12 +63,12 @@ const DashBoard = () => {
           <Area type="monotone" dataKey="revenue" stackId="1" stroke="#82ca9d" fill="#82ca9d" />
           
         </AreaChart>
-        <h3 className='text-info'>Investment vs Revenue</h3>
+        <h3 className='text-info fw-bold'>Investment vs Revenue</h3>
         </div>
         <div>
         <LineChart
         className='my-5'
-          width={500}
+          width={600}
           height={400}
           data={data}
           margin={{
@@ -91,8 +91,8 @@ const DashBoard = () => {
         </div>
         <div>
         <BarChart
-          width={500}
-          height={300}
+          width={600}
+          height={400}
           data={data}
           margin={{
             top: 20,

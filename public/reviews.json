@@ -2,13 +2,14 @@
     {
       "id": 1,
       "review": "The Apple Watch 7 is nice.It only comes with a charger that is USB C. So if you don’t already have a usb power brick or old Watch charger, you have to buy that and won’t be able to charge your watch ",
-  
+  "image" : "./human/human-1.jpg",
       "name": "Jesse Jantz",
       "ratings": "4"
     },
     {
       "id": 2,
       "review": "This thing is SO amazing! I decided to go with the Graphite Stainless case. It’s certainly more expensive than the aluminum models which are also super nice. ",
+      "image" : "./human/human-2.jpg",
   
       "name": "Bastet",
       "ratings": "5"
@@ -16,49 +17,49 @@
     {
       "id": 3,
       "review": "Got my series 7 45 mm stainless steel in graphite was lucky to get it today on the 24th of October 2021 ",
-  
+      "image" : "./human/human-5.jpg",
       "name": "Cameron",
       "ratings": "3"
     },
     {
       "id": 4,
       "review": " I really like the starlight Apple Watch and band. It’s very subtle and nice to look at. ",
-  
+      "image" : "./human/human-4.jpg",
       "name": "Brandy Judd",
       "ratings": "5"
     },
     {
       "id": 5,
       "review": "It’s a great watch and thanks to amazon I received it a month earlier (10/22) than ordering from Apple or Verizon and waiting to be delivered on late November or early December.",
-  
+      "image" : "./human/human-3.jpg",
       "name": "Johnny H",
       "ratings": "4"
     },
     {
       "id": 6,
       "review": "I am 73 years old. The week after I purchased this watch I fell. This watch immediately alerted to ask if I needed emergency help.",
-  
+      "image" : "./human/human-6.jpg",
       "name": "Joyce",
       "ratings": "5"
     },
     {
       "id": 7,
       "review": "5 stars not here for the tech review. There are people was more qualified than me. Just here to warn all those who purchase the stainless steel version with the Milanese Loop band.",
-  
+      "image" : "./human/human-7.jpg",
       "name": "Dtrejo91",
       "ratings": "5"
     },
     {
       "id": 8,
       "review": "I love the watch and am sure once I get cell service added it will do exactly what I need it to do. I got this solely for the “Fall alert” function. I find it a MUCH cheaper alternative than life alert and those kinds of services.",
-  
+      "image" : "./human/human-8.jpg",
       "name": "Chloe",
       "ratings": "4"
     },
     {
       "id": 9,
       "review": "It’s a watch lol. What more do you want. Alright, let’s see. screen is great. Scratch resistant but not impervious. Which is fine. Great product.",
-  
+      "image" : "./human/human-9.jpg",
       "name": "GeorgiaPeach",
       "ratings": "5"
     }

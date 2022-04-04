@@ -9,7 +9,7 @@ const Home = () => {
     const navigate = useNavigate()
  
     let ThreeReview=reviews.slice(0,3);
-//    console.log(ThreeReview);
+
   return (
     <div className=''>
       <div className="container Home ">
