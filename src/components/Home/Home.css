@@ -1,11 +1,14 @@
+/* home image */
 .Home img {
   width: 80%;
 }
+/* full home design */
 .Home {
 height: 70vh;
 margin-top: 100px;
  
 }
+/* background */
 .background{
     background-color: rgb(241, 229, 214);
 }
